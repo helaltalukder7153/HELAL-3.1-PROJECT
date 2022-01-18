@@ -1,0 +1,107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body h1 h2 h3 h4 h5 h5 p img box {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.signin{
+    width: 960px;
+    height: 120vh;
+    background-color: #F8F8F8;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+}
+.main-signin{
+    width: 800px;
+    height: 400px;
+    display: flex;
+    background-color: #fff;
+    padding: 70px 40px;
+    align-items: center;
+    margin-left: 10px;
+    border-radius: 12px;
+
+}
+.logo a p{
+ margin-top: 50px;
+margin-left: 57px;
+color: #5382A6;
+font-size: 16px;
+font-weight: 400px;
+}
+.right-seection{
+margin-left: 98px;
+margin-bottom: 275px;
+}
+.right-seection h2{
+    color: #222222;
+    font-size: 28px;
+    margin-bottom: 18px;
+    margin-top: 194px;
+    margin-left: 31px;
+}
+.stn{
+    display: block;
+    margin: 40px;
+    width: 100%;
+    padding-left: 8px;
+}
+.ntt{
+    margin-left: 20px;
+}
+.btn{
+    display: block;
+    margin: 20px 0px 10px 18px;
+    padding: 16px 41px;
+    background: #6DABE4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    color: tomato;
+    transform: scale(1.3);
+    transition: 0.5s;
+}
+.right-seection input{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+.main-div{
+    position: relative;
+   
+}
+.icon{
+    position: absolute;
+    top: 0px;
+    left: 29px;
+}
+.upar{
+    margin: 103px 25px -106px 20px;
+}
+.upar span{
+    color: #5382A6;
+}
+.upar a { 
+margin-left: 20px;
+padding: 10px 20px 11px 15px;
+}
+.ftf{
+    background-color:#3B5998;
+    color: #fff;
+    border-radius: 4px;
+}
+.ttt{
+    background-color:#1DA0F2;
+    color: #fff;
+    border-radius: 4px; 
+}
+.fff{
+    background-color:#E72734;
+    color: #fff;
+    border-radius: 4px;  
+}
+
